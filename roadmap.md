@@ -3,19 +3,19 @@
 ## Phase 1 – MVP (45 days)
 
 Goals
-Launch free version in App Store.
+Web app operationalized with limited, but salient value output generation
 
 Core features
-- goal selection (sleep / stress / energy)
-- user health profile
-- protocol generation
+- goal selection 
+- context identification
+- output generation
 - evidence context
-- safety analysis
+- evaluator
 - disclaimer
 
-## Phase 2 – Premium
+## Phase 2 – Complex output generation
 
-- protocol tracking
-- wearable integration
-- adaptive protocols
-- supplement scheduling
+- goal expansion
+- context expansion
+- improved output granularity
+- Feedback loop considered
